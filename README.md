@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+    <img width="200" src="https://gifdb.com/images/high/comedian-jim-carrey-as-hackerman-vmf9qnz7nx5p9grz.gif">
+
+</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=F70000&center=true&random=false&width=435&separator=%3C&lines=Hi!+I'm+Javier%3CData+Scientist+%7C+Data+analyst+%7C+Data+Engineer%3CTennis+player+and+writer!%3CCheck+my+profile+to+know+more+about+me+;))](https://git.io/typing-svg)
+
 
 <!--
 **javyleonhart/javyleonhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

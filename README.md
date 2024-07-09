@@ -1,5 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&random=false&width=750&height=151&lines=Hi!+I'm+Javier;Data+Scientist+%7C+Data+analyst+%7C+Data+Engineer;Tennis+player+and+writer!;It's+dangerous+to+work+alone!;Take+this+contact" alt="Typing SVG" /></a>
+
 <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&random=false&width=750&height=151&lines=Hi!+I'm+Javier;Data+Scientist+%7C+Data+analyst+%7C+Data+Engineer;Tennis+player+and+writer!;It's+dangerous+to+work+alone!;Take+this+contact" alt="Typing SVG" /></a>
     <img width="400" src="https://gifdb.com/images/high/comedian-jim-carrey-as-hackerman-vmf9qnz7nx5p9grz.gif">
 
 </p>
@@ -39,7 +40,7 @@ Me considero muy responsable, siempre con ganas de aprender y que disfruta de af
 <br>
 <p><img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="30px">Herramientas</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="60px"/><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="60px"/><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60px" />
 
 <br>
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect with me </h2>

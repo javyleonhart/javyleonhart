@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&random=false&width=750&height=151&lines=Hi!+I'm+Javier;Data+Scientist+%7C+Data+analyst+%7C+Data+Engineer;Tennis+player+and+writer!;It's+dangerous+to+work+alone!;Take+this+contact" alt="Typing SVG" /></a>
+    <a><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&pause=300&color=F70000&center=true&vCenter=true&multiline=true&random=false&width=750&height=151&lines=Hi!+I'm+Javier;Data+Scientist+%7C+Data+analyst+%7C+Data+Engineer;Tennis+player+and+writer!;It's+dangerous+to+work+alone!;Take+this+contact" alt="Typing SVG" /></a>
     <img width="400" src="https://gifdb.com/images/high/comedian-jim-carrey-as-hackerman-vmf9qnz7nx5p9grz.gif">
 
 </p>

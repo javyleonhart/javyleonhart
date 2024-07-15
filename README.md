@@ -12,7 +12,7 @@ ______________________________
 
 <p>Hola🙋🏽 soy Javier. Desde chico me crie con computadoras y consolas, por lo que soy un apasionado de la tecnología en general🤓🤓. Sin embargo, siempre fui muy curioso lo que me llevó a ahondar mucho en distintos ámbitos como la Educación Física, la Fisiología del ejercicio, la escritura y, actualmente, la ciencia de datos.</p>
 
-<img align="right" width=320px height=240px alt="side_sticker" src="https://i.pinimg.com/originals/2d/db/bf/2ddbbfb57238b6b4425e9b9126f1f95d.gif" />
+<img align="right" width=320px height=240px padding=20px alt="side_sticker" src="https://i.pinimg.com/originals/2d/db/bf/2ddbbfb57238b6b4425e9b9126f1f95d.gif" />
 <p>
 Confío en que este recorrido me proporcionó una amplia variedad de habilidades tanto blandas como técnicas y que este repertorio puede darme la capacidad de ver las cosas desde otro ángulo y buscar soluciones creativas a los problemas que se presentan, así como investigar los temas que hagan falta.
 
